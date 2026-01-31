@@ -1,0 +1,20 @@
+{
+  "name": "React JS - Simple CRUD",
+  "version": "1.0.0",
+  "description": "This is a simple CRUD app using React JS",
+  "keywords": [
+    "electronjs",
+    "reactjs",
+    "crud"
+  ],
+  "license": "MIT",
+  "author": "HIIPS_Analytics",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^40.1.0"
+  }
+}
