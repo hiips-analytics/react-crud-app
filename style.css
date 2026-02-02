@@ -1,0 +1,13 @@
+h1{
+    color: green;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.items-center {
+    display: flex;
+    justify-content: center;
+}
